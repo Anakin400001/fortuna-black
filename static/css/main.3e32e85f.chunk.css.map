@@ -1,1 +1,0 @@
-{"version":3,"sources":["Persik.css"],"names":[],"mappings":"AAAA,QACE,aAAc,CACd,SAAU,CACV,eAAgB,CAChB,gBACF,CAEA,OACC,eACD","file":"main.3e32e85f.chunk.css","sourcesContent":[".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n\n.vivod {\n\tmargin: 5px auto;\n}\t"]}
